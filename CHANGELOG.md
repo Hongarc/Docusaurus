@@ -12,7 +12,7 @@ In preparation of F8 where @yangshun will be holding a classroom session on buil
 
 We also revamped the `docusaurus-init` script such that the theme colors are random and you partnered with [unDraw](https://undraw.co/) to generate illustrations that match your theme color! Check it out!
 
-The sidebar icon on mobile screens have been changed to a more conventional hamburger style icon which is more intuitibe. If you customized that part, check if your site's layout broke because of it.
+The sidebar icon on mobile screens have been changed to a more conventional hamburger style icon which is more intuitive. If you customized that part, check if your site's layout broke because of it.
 
 Lastly, welcome Pulsar, Mockit and React Testing Library as users!
 
@@ -502,7 +502,7 @@ Thank you to the following contributors who helped with this release:
 ### Fixed/Changed
 
 - The search input will now search the docs in the [correct language](https://github.com/facebook/Docusaurus/commit/df429262429e449e78745423ff2c9ab6c6fd1d5c).
-- Algolia will be able to scrap emulti-language and/or versioned sites better with the introduction of [special meta tags](https://github.com/facebook/Docusaurus/commit/0eb6612b58a6ee93d5de715f87201eb9fabc82c2).
+- Algolia will be able to scrap multi-language and/or versioned sites better with the introduction of [special meta tags](https://github.com/facebook/Docusaurus/commit/0eb6612b58a6ee93d5de715f87201eb9fabc82c2).
 
 ### Added
 
@@ -812,7 +812,7 @@ This is a general release with additions and documentation updates. We would als
 
 https://docusaurus.io has turned on versioning. There are other documentation updates as well.
 
-> We turned on translations, but found a bug. So we turned it off until we fix it.
+> We turned on translations but found a bug. So we turned it off until we fix it.
 
 Thank you to the following contributors who helped with this release:
 
@@ -886,7 +886,7 @@ N/A
 ### Added
 
 - [Added Facebook Pixel ID as a configuration option](https://github.com/facebook/Docusaurus/commit/508090377eb14f27db5ccb87c5fbe70ab79dc62d), thanks @pestevez.
-- Better documentation on installation requirements, CircleCI, updating Docusaurus and API. Thanks espcially to @yangshun for a lot of documentation cleanup and additions.
+- Better documentation on installation requirements, CircleCI, updating Docusaurus and API. Thanks especially to @yangshun for a lot of documentation cleanup and additions.
 
 ### Fixed/Changed
 
@@ -1012,7 +1012,7 @@ N/A
 
 ## [1.0.5] - 2018-01-09
 
-This is a targeted bug fix release, with some documentation updates and Docusaurus repo housekeeping in between. Total commits in this release is 13, including the release itself.
+This is a targeted bugfix release, with some documentation updates and Docusaurus repo housekeeping in between. Total commits in this release is 13, including the release itself.
 
 ### Breaking Changes
 
@@ -1044,7 +1044,7 @@ This is generally a bug fix release, with some code refactoring. Total commits i
 
 - `lang` property added on `html` tag, if a language exists and is set (PR #295).
 - Added the `wrapPagesHTML` configuration option (PR #332).
-- Some adming docs on how to debug with VSCode (PR #335).
+- Some admin docs on how to debug with VSCode (PR #335).
 - Added docs for the `useEnglishURL` configuration option.
 
 ### Fixed/Changed
